@@ -8,7 +8,7 @@ Built with a **React + Vite** frontend and a **Node.js + Express** API.
 
 ```text
 myrarestore/
-├── web/          React storefront (Vite + TypeScript)
+├── web/          React storefront (Vite + TypeScript )
 │   ├── src/
 │   │   ├── pages/        Home + product detail pages
 │   │   ├── components/   Header, footer, product card
